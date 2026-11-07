@@ -20,3 +20,4 @@ Sources:
 I used the sources that are on the task sheet and "Reddit" website. I also used AI for part of the debugging.
 Ester eggs:
 Enter the word "secret" in the name text field and you will discover a secret design!
+
